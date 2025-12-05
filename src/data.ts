@@ -1,5 +1,5 @@
 import { Github, Linkedin, Globe2, FileCode, Framer, Cpu, FlaskConical, Layout, Wrench, Search, Image, Brain } from 'lucide-react';
-import { FaReact, FaBootstrap, FaHtml5, FaCss3Alt, FaWix, FaFigma, FaPython, FaNodeJs, FaDocker, FaAws, FaGithub } from 'react-icons/fa';
+import { FaReact, FaBootstrap, FaHtml5, FaFigma, FaPython, FaNodeJs, FaDocker, FaAws, FaGithub } from 'react-icons/fa';
 import { SiTailwindcss, SiThreedotjs, SiDjango, SiFirebase, SiRazorpay, SiNetlify, SiAdobeaftereffects, SiAdobephotoshop, SiKalilinux, SiPostman } from 'react-icons/si';
 import { VscVscode } from 'react-icons/vsc';
 
